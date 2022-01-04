@@ -4,6 +4,6 @@ public class MyArrayListTest {
 
     @Test
     public void testAddMethod() {
-
+        System.out.println("qwewqqwewqewqee");
     }
 }
